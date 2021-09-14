@@ -1,0 +1,2 @@
+a='abhay'
+print(a)
